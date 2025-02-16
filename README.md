@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ar859
-- 👀 I’m interested in coding,data science,machine learning,deep learning.
+
+- python & Big data developer
 - 📫 How to reach me ...aryaskumar9926@gmail.com
 
 
